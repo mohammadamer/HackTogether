@@ -1,4 +1,4 @@
-# Intranet Serach Bot
+# Intranet Search Bot
 
 
 
